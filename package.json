@@ -1,0 +1,31 @@
+{
+    "name": "necro-theme",
+    "displayName": "Necro Theme",
+    "description": "Experimental build theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Necro Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Necro Theme-color-theme.json"
+            },
+            {
+                "label": "Necrolighter Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Necrolighter Theme-color-theme.json"
+            },
+            {
+                "label": "Necroblue Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Necroblue Theme-color-theme.json"
+            }
+        ]
+    }
+}
