@@ -1,8 +1,8 @@
 {
     "name": "necro-theme",
     "displayName": "Necro Theme",
-    "description": "Experimental build theme",
-    "version": "0.1.0",
+    "description": "Solarized-style dark theme",
+    "version": "0.2.0",
     "publisher": "fadelpamungkas",
     "engines": {
         "vscode": "^1.66.0"
@@ -29,7 +29,7 @@
             {
                 "label": "Necrosolarize Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Necrosolarize Theme.json"
+                "path": "./themes/Necrosolarized Theme.json"
             },
             {
                 "label": "Necroblue Theme",
