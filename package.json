@@ -2,7 +2,7 @@
     "name": "necro-theme",
     "displayName": "Necro Theme",
     "description": "Solarized-style dark theme",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "fadelpamungkas",
     "engines": {
         "vscode": "^1.66.0"
