@@ -19,22 +19,22 @@
             {
                 "label": "Necro Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Necro Theme-color-theme.json"
+                "path": "./themes/Necro Theme.json"
             },
             {
                 "label": "Necrolighter Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Necrolighter Theme-color-theme.json"
-            },
-            {
-                "label": "Necroblue Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Necroblue Theme-color-theme.json"
+                "path": "./themes/Necrolighter Theme.json"
             },
             {
                 "label": "Necrosolarize Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Necrosolarize Theme-color-theme.json"
+                "path": "./themes/Necrosolarize Theme.json"
+            },
+            {
+                "label": "Necroblue Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Necroblue Theme.json"
             }
         ]
     }
