@@ -26,16 +26,16 @@ Code inside the screenshot:
 
 ### Necro theme
 
-![](/Users/fadel/Downloads/Necro.png)
+![necro](screenshots/Necro.png)
 
 ## Necrolighter theme
 
-![Necrolighter.png](/Users/fadel/Downloads/Necrolighter.png)
+![necrolighter](screenshots/Necrolighter.png)
 
 ## Necrosolarized theme
 
-![](/Users/fadel/Downloads/Necrosolarize.png)
+![necrosolarize](screenshots/Necrosolarize.png)
 
 ## Necroblue theme
 
-![](/Users/fadel/Downloads/Necroblue.png)
+![necroblue](screenshots/Necroblue.png)
