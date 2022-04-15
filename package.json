@@ -30,6 +30,11 @@
                 "label": "Necroblue Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Necroblue Theme-color-theme.json"
+            },
+            {
+                "label": "Necrosolarize Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Necrosolarize Theme-color-theme.json"
             }
         ]
     }
