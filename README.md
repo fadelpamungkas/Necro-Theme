@@ -1,6 +1,4 @@
-# <img src="file:///Users/fadel/ExpressProjects/necro-theme/icon.png" title="" alt="" data-align="center">
-
- 
+# <img src="icon.png" title="" alt="" data-align="center">
 
 ---
 
