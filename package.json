@@ -4,8 +4,13 @@
     "description": "Solarized-style dark theme",
     "version": "0.2.1",
     "publisher": "fadelpamungkas",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.66.0"
+    },
+    "galleryBanner": {
+        "color": "#00212b",
+        "theme": "dark"
     },
 	"repository": {
 		"type": "git",
@@ -37,5 +42,6 @@
                 "path": "./themes/Necroblue Theme.json"
             }
         ]
-    }
+    },
+    "homepage": "https://github.com/fadelpamungkas/Necro-Theme/blob/main/README.md"
 }

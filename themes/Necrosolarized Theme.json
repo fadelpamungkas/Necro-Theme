@@ -54,7 +54,7 @@
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#93A1A1",
+				"foreground": "#859900",
 				"fontStyle": "bold"
 			}
 		},

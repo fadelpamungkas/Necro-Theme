@@ -1,8 +1,8 @@
-# Necro Theme
+# <img src="file:///Users/fadel/ExpressProjects/necro-theme/icon.png" title="" alt="" data-align="center">
+
+ 
 
 ---
-
-Theme aimed for who love solarized-style in dark preferred.
 
 Available on: https://marketplace.visualstudio.com/items?itemName=fadelpamungkas.necro-theme
 
