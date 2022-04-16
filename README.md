@@ -1,4 +1,6 @@
-# <img src="icon.png" title="" alt="" data-align="center">
+<h1 align="center">
+    <img src="icon.png" title="" alt="" data-align="center">
+</h1>
 
 ---
 
