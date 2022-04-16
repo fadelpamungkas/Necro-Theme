@@ -2,7 +2,7 @@
     "name": "necro-theme",
     "displayName": "Necro Theme",
     "description": "Solarized-style dark theme",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "publisher": "fadelpamungkas",
     "icon": "icon.png",
     "engines": {
@@ -12,10 +12,10 @@
         "color": "#00212b",
         "theme": "dark"
     },
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/fadelpamungkas/Necro-Theme"
-	},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fadelpamungkas/Necro-Theme"
+    },
     "categories": [
         "Themes"
     ],
