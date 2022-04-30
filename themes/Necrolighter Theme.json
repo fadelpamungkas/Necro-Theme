@@ -1,6 +1,7 @@
 {
 	"name": "Necro Theme",
 	"type": "dark",
+	"$schema": "vscode://schemas/color-theme",
 	"tokenColors": [
 	  {
 		"settings": {
